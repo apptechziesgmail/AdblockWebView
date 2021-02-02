@@ -2,7 +2,7 @@ name: adblock_native_web
 description: Flutter Plugin that Renders Native Webview as a widget in flutter with Adblock Webview
 version: 1.0.2
 author: AppTechzies <apptechzies@gmail.com>
-homepage: https://github.com/PonnamKarthik/FlutterWebView
+homepage: https://github.com/apptechziesgmail/AdblockWebView
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
